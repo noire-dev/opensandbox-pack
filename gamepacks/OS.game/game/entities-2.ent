@@ -1,4 +1,9 @@
 <?xml version="1.0"?>
+<!--
+ OpenSandbox entity definition file for NetRadiant
+ Version: 1.0
+ Updated: 2025-02-01
+-->
 <classes>
 <point name="info_player_dom" color="0.75 0.75 0.75" box="-16 -16 -24 16 16 32" model="">
 Spawn point used in Domination if no team specific spawn points exists. Usually placed in the middle of CTF maps. See info_player_dom_red and info_player_dom_blue for team specific versions.
